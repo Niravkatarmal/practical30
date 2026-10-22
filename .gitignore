@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# Local database (freshly created on run if absent)
+# Uncomment the line below if you prefer not to track the local database in Git
+# expense_manager.db
+
+# Environments
+env/
+venv/
+ENV/
+
+# IDE configs
+.vscode/
+.idea/
+*.swp

@@ -1,0 +1,8 @@
+# Requirements for Personal Expense Manager
+# Note: Python standard library packages used: tkinter, sqlite3, csv, datetime, os, sys
+
+# Optional: Graphical charts in Reports screen (if not installed, app uses built-in Tkinter canvas)
+matplotlib>=3.7.0
+
+# Optional: Tool to compile standalone Windows executable (.exe)
+pyinstaller>=6.0.0
